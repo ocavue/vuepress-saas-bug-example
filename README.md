@@ -25,5 +25,3 @@ error:
     @ ./node_modules/vuepress/lib/app/app.js
     @ ./node_modules/vuepress/lib/app/clientEntry.js
     @ multi ./node_modules/vuepress/lib/app/clientEntry.js
-
-If you remove `import "./theme.scss";` in vuepress-theme-project/enhanceApp.js, everything is ok.
