@@ -1,3 +1,5 @@
+reproduction repo for https://github.com/vuejs/vuepress/issues/353
+
 step1:
 
     $ cd vuepress-theme-project
